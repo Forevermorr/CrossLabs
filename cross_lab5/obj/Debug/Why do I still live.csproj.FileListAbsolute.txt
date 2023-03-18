@@ -1,0 +1,9 @@
+C:\Users\Echigrus\source\repos\Why do I still live\bin\Debug\Why do I still live.exe
+C:\Users\Echigrus\source\repos\Why do I still live\bin\Debug\Why do I still live.pdb
+C:\Users\Echigrus\source\repos\Why do I still live\obj\Debug\Why do I still live.csprojAssemblyReference.cache
+C:\Users\Echigrus\source\repos\Why do I still live\obj\Debug\Why_do_I_still_live.Form1.resources
+C:\Users\Echigrus\source\repos\Why do I still live\obj\Debug\Why_do_I_still_live.Properties.Resources.resources
+C:\Users\Echigrus\source\repos\Why do I still live\obj\Debug\Why do I still live.csproj.GenerateResource.cache
+C:\Users\Echigrus\source\repos\Why do I still live\obj\Debug\Why do I still live.csproj.CoreCompileInputs.cache
+C:\Users\Echigrus\source\repos\Why do I still live\obj\Debug\Why do I still live.exe
+C:\Users\Echigrus\source\repos\Why do I still live\obj\Debug\Why do I still live.pdb

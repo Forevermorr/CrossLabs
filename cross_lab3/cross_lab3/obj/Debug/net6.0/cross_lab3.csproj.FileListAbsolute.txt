@@ -1,0 +1,15 @@
+C:\Users\forev\source\repos\cross_lab3\cross_lab3\bin\Debug\net6.0\cross_lab3.exe
+C:\Users\forev\source\repos\cross_lab3\cross_lab3\bin\Debug\net6.0\cross_lab3.deps.json
+C:\Users\forev\source\repos\cross_lab3\cross_lab3\bin\Debug\net6.0\cross_lab3.runtimeconfig.json
+C:\Users\forev\source\repos\cross_lab3\cross_lab3\bin\Debug\net6.0\cross_lab3.dll
+C:\Users\forev\source\repos\cross_lab3\cross_lab3\bin\Debug\net6.0\ref\cross_lab3.dll
+C:\Users\forev\source\repos\cross_lab3\cross_lab3\bin\Debug\net6.0\cross_lab3.pdb
+C:\Users\forev\source\repos\cross_lab3\cross_lab3\obj\Debug\net6.0\cross_lab3.csproj.AssemblyReference.cache
+C:\Users\forev\source\repos\cross_lab3\cross_lab3\obj\Debug\net6.0\cross_lab3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\forev\source\repos\cross_lab3\cross_lab3\obj\Debug\net6.0\cross_lab3.AssemblyInfoInputs.cache
+C:\Users\forev\source\repos\cross_lab3\cross_lab3\obj\Debug\net6.0\cross_lab3.AssemblyInfo.cs
+C:\Users\forev\source\repos\cross_lab3\cross_lab3\obj\Debug\net6.0\cross_lab3.csproj.CoreCompileInputs.cache
+C:\Users\forev\source\repos\cross_lab3\cross_lab3\obj\Debug\net6.0\cross_lab3.dll
+C:\Users\forev\source\repos\cross_lab3\cross_lab3\obj\Debug\net6.0\ref\cross_lab3.dll
+C:\Users\forev\source\repos\cross_lab3\cross_lab3\obj\Debug\net6.0\cross_lab3.pdb
+C:\Users\forev\source\repos\cross_lab3\cross_lab3\obj\Debug\net6.0\cross_lab3.genruntimeconfig.cache

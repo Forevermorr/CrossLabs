@@ -1,0 +1,11 @@
+C:\Users\forev\source\repos\cross_lab1\cross_lab1\bin\Debug\cross_lab1.exe.config
+C:\Users\forev\source\repos\cross_lab1\cross_lab1\bin\Debug\cross_lab1.exe
+C:\Users\forev\source\repos\cross_lab1\cross_lab1\bin\Debug\cross_lab1.pdb
+C:\Users\forev\source\repos\cross_lab1\cross_lab1\obj\Debug\cross_lab1.csproj.AssemblyReference.cache
+C:\Users\forev\source\repos\cross_lab1\cross_lab1\obj\Debug\cross_lab1.csproj.SuggestedBindingRedirects.cache
+C:\Users\forev\source\repos\cross_lab1\cross_lab1\obj\Debug\cross_lab1.Form1.resources
+C:\Users\forev\source\repos\cross_lab1\cross_lab1\obj\Debug\cross_lab1.Properties.Resources.resources
+C:\Users\forev\source\repos\cross_lab1\cross_lab1\obj\Debug\cross_lab1.csproj.GenerateResource.cache
+C:\Users\forev\source\repos\cross_lab1\cross_lab1\obj\Debug\cross_lab1.csproj.CoreCompileInputs.cache
+C:\Users\forev\source\repos\cross_lab1\cross_lab1\obj\Debug\cross_lab1.exe
+C:\Users\forev\source\repos\cross_lab1\cross_lab1\obj\Debug\cross_lab1.pdb

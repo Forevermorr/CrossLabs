@@ -1,0 +1,48 @@
+D:\Си ШАРП\Lab5\bin\Debug\Lab5.exe
+D:\Си ШАРП\Lab5\bin\Debug\Lab5.pdb
+D:\Си ШАРП\Lab5\obj\Debug\Lab5.csprojAssemblyReference.cache
+D:\Си ШАРП\Lab5\obj\Debug\Lab5.Form1.resources
+D:\Си ШАРП\Lab5\obj\Debug\Lab5.Properties.Resources.resources
+D:\Си ШАРП\Lab5\obj\Debug\Lab5.csproj.GenerateResource.cache
+D:\Си ШАРП\Lab5\obj\Debug\Lab5.csproj.CoreCompileInputs.cache
+D:\Си ШАРП\Lab5\obj\Debug\Lab5.exe
+D:\Си ШАРП\Lab5\obj\Debug\Lab5.pdb
+\\10.10.4.50\StudentData\ПИ\ПИ-191\Корольков Н.А\Lab5\bin\Debug\Lab5.exe
+\\10.10.4.50\StudentData\ПИ\ПИ-191\Корольков Н.А\Lab5\bin\Debug\Lab5.pdb
+\\10.10.4.50\StudentData\ПИ\ПИ-191\Корольков Н.А\Lab5\obj\Debug\Lab5.csprojAssemblyReference.cache
+\\10.10.4.50\StudentData\ПИ\ПИ-191\Корольков Н.А\Lab5\obj\Debug\Lab5.Form1.resources
+\\10.10.4.50\StudentData\ПИ\ПИ-191\Корольков Н.А\Lab5\obj\Debug\Lab5.Properties.Resources.resources
+\\10.10.4.50\StudentData\ПИ\ПИ-191\Корольков Н.А\Lab5\obj\Debug\Lab5.csproj.GenerateResource.cache
+\\10.10.4.50\StudentData\ПИ\ПИ-191\Корольков Н.А\Lab5\obj\Debug\Lab5.csproj.CoreCompileInputs.cache
+\\10.10.4.50\StudentData\ПИ\ПИ-191\Корольков Н.А\Lab5\obj\Debug\Lab5.exe
+\\10.10.4.50\StudentData\ПИ\ПИ-191\Корольков Н.А\Lab5\obj\Debug\Lab5.pdb
+F:\StudentData\ПИ\ПИ-191\Корольков Н.А\Lab5\obj\Debug\Lab5.exe
+F:\StudentData\ПИ\ПИ-191\Корольков Н.А\Lab5\obj\Debug\Lab5.pdb
+F:\StudentData\ПИ\ПИ-191\Корольков Н.А\Lab5\obj\Debug\Lab5.csprojResolveAssemblyReference.cache
+F:\StudentData\ПИ\ПИ-191\Корольков Н.А\Lab5\obj\Debug\Lab5.Form1.resources
+F:\StudentData\ПИ\ПИ-191\Корольков Н.А\Lab5\obj\Debug\Lab5.Properties.Resources.resources
+F:\StudentData\ПИ\ПИ-191\Корольков Н.А\Lab5\obj\Debug\Lab5.csproj.GenerateResource.Cache
+F:\StudentData\ПИ\ПИ-191\Корольков Н.А\Lab5\bin\Debug\Lab5.exe
+F:\StudentData\ПИ\ПИ-191\Корольков Н.А\Lab5\bin\Debug\Lab5.pdb
+C:\Users\forev\Downloads\C#\Корольков\Lab5\bin\Debug\Lab5.exe.config
+C:\Users\forev\Downloads\C#\Корольков\Lab5\bin\Debug\Lab5.exe
+C:\Users\forev\Downloads\C#\Корольков\Lab5\bin\Debug\Lab5.pdb
+C:\Users\forev\Downloads\C#\Корольков\Lab5\obj\Debug\Lab5.csproj.AssemblyReference.cache
+C:\Users\forev\Downloads\C#\Корольков\Lab5\obj\Debug\Lab5.csproj.SuggestedBindingRedirects.cache
+C:\Users\forev\Downloads\C#\Корольков\Lab5\obj\Debug\Lab5.Form1.resources
+C:\Users\forev\Downloads\C#\Корольков\Lab5\obj\Debug\Lab5.Properties.Resources.resources
+C:\Users\forev\Downloads\C#\Корольков\Lab5\obj\Debug\Lab5.csproj.GenerateResource.cache
+C:\Users\forev\Downloads\C#\Корольков\Lab5\obj\Debug\Lab5.csproj.CoreCompileInputs.cache
+C:\Users\forev\Downloads\C#\Корольков\Lab5\obj\Debug\Lab5.exe
+C:\Users\forev\Downloads\C#\Корольков\Lab5\obj\Debug\Lab5.pdb
+C:\Users\forev\OneDrive\Рабочий стол\разработка графических интерфейсов с использование кроссплатформенных технологий\Lab5\bin\Debug\Lab5.exe.config
+C:\Users\forev\OneDrive\Рабочий стол\разработка графических интерфейсов с использование кроссплатформенных технологий\Lab5\bin\Debug\Lab5.exe
+C:\Users\forev\OneDrive\Рабочий стол\разработка графических интерфейсов с использование кроссплатформенных технологий\Lab5\bin\Debug\Lab5.pdb
+C:\Users\forev\OneDrive\Рабочий стол\разработка графических интерфейсов с использование кроссплатформенных технологий\Lab5\obj\Debug\Lab5.csproj.AssemblyReference.cache
+C:\Users\forev\OneDrive\Рабочий стол\разработка графических интерфейсов с использование кроссплатформенных технологий\Lab5\obj\Debug\Lab5.csproj.SuggestedBindingRedirects.cache
+C:\Users\forev\OneDrive\Рабочий стол\разработка графических интерфейсов с использование кроссплатформенных технологий\Lab5\obj\Debug\Lab5.Form1.resources
+C:\Users\forev\OneDrive\Рабочий стол\разработка графических интерфейсов с использование кроссплатформенных технологий\Lab5\obj\Debug\Lab5.Properties.Resources.resources
+C:\Users\forev\OneDrive\Рабочий стол\разработка графических интерфейсов с использование кроссплатформенных технологий\Lab5\obj\Debug\Lab5.csproj.GenerateResource.cache
+C:\Users\forev\OneDrive\Рабочий стол\разработка графических интерфейсов с использование кроссплатформенных технологий\Lab5\obj\Debug\Lab5.csproj.CoreCompileInputs.cache
+C:\Users\forev\OneDrive\Рабочий стол\разработка графических интерфейсов с использование кроссплатформенных технологий\Lab5\obj\Debug\Lab5.exe
+C:\Users\forev\OneDrive\Рабочий стол\разработка графических интерфейсов с использование кроссплатформенных технологий\Lab5\obj\Debug\Lab5.pdb

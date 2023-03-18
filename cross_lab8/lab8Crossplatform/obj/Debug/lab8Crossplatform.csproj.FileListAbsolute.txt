@@ -1,0 +1,42 @@
+C:\Users\Simon\Desktop\lab8Crossplatform\lab8Crossplatform\bin\Debug\lab8Crossplatform.exe.config
+C:\Users\Simon\Desktop\lab8Crossplatform\lab8Crossplatform\bin\Debug\lab8Crossplatform.exe
+C:\Users\Simon\Desktop\lab8Crossplatform\lab8Crossplatform\bin\Debug\lab8Crossplatform.pdb
+C:\Users\Simon\Desktop\lab8Crossplatform\lab8Crossplatform\obj\Debug\lab8Crossplatform.csproj.AssemblyReference.cache
+C:\Users\Simon\Desktop\lab8Crossplatform\lab8Crossplatform\obj\Debug\lab8Crossplatform.Form1.resources
+C:\Users\Simon\Desktop\lab8Crossplatform\lab8Crossplatform\obj\Debug\lab8Crossplatform.Properties.Resources.resources
+C:\Users\Simon\Desktop\lab8Crossplatform\lab8Crossplatform\obj\Debug\lab8Crossplatform.csproj.GenerateResource.cache
+C:\Users\Simon\Desktop\lab8Crossplatform\lab8Crossplatform\obj\Debug\lab8Crossplatform.csproj.CoreCompileInputs.cache
+C:\Users\Simon\Desktop\lab8Crossplatform\lab8Crossplatform\obj\Debug\lab8Crossplatform.exe
+C:\Users\Simon\Desktop\lab8Crossplatform\lab8Crossplatform\obj\Debug\lab8Crossplatform.pdb
+C:\Users\Simon\Desktop\кроссы\lab8Crossplatform\lab8Crossplatform\bin\Debug\lab8Crossplatform.exe.config
+C:\Users\Simon\Desktop\кроссы\lab8Crossplatform\lab8Crossplatform\bin\Debug\lab8Crossplatform.exe
+C:\Users\Simon\Desktop\кроссы\lab8Crossplatform\lab8Crossplatform\bin\Debug\lab8Crossplatform.pdb
+C:\Users\Simon\Desktop\кроссы\lab8Crossplatform\lab8Crossplatform\obj\Debug\lab8Crossplatform.csproj.AssemblyReference.cache
+C:\Users\Simon\Desktop\кроссы\lab8Crossplatform\lab8Crossplatform\obj\Debug\lab8Crossplatform.Form1.resources
+C:\Users\Simon\Desktop\кроссы\lab8Crossplatform\lab8Crossplatform\obj\Debug\lab8Crossplatform.Properties.Resources.resources
+C:\Users\Simon\Desktop\кроссы\lab8Crossplatform\lab8Crossplatform\obj\Debug\lab8Crossplatform.csproj.GenerateResource.cache
+C:\Users\Simon\Desktop\кроссы\lab8Crossplatform\lab8Crossplatform\obj\Debug\lab8Crossplatform.csproj.CoreCompileInputs.cache
+C:\Users\Simon\Desktop\кроссы\lab8Crossplatform\lab8Crossplatform\obj\Debug\lab8Crossplatform.exe
+C:\Users\Simon\Desktop\кроссы\lab8Crossplatform\lab8Crossplatform\obj\Debug\lab8Crossplatform.pdb
+C:\Users\forev\Desktop\lab8Crossplatform\lab8Crossplatform\bin\Debug\lab8Crossplatform.exe.config
+C:\Users\forev\Desktop\lab8Crossplatform\lab8Crossplatform\bin\Debug\lab8Crossplatform.exe
+C:\Users\forev\Desktop\lab8Crossplatform\lab8Crossplatform\bin\Debug\lab8Crossplatform.pdb
+C:\Users\forev\Desktop\lab8Crossplatform\lab8Crossplatform\obj\Debug\lab8Crossplatform.csproj.AssemblyReference.cache
+C:\Users\forev\Desktop\lab8Crossplatform\lab8Crossplatform\obj\Debug\lab8Crossplatform.csproj.SuggestedBindingRedirects.cache
+C:\Users\forev\Desktop\lab8Crossplatform\lab8Crossplatform\obj\Debug\lab8Crossplatform.Form1.resources
+C:\Users\forev\Desktop\lab8Crossplatform\lab8Crossplatform\obj\Debug\lab8Crossplatform.Properties.Resources.resources
+C:\Users\forev\Desktop\lab8Crossplatform\lab8Crossplatform\obj\Debug\lab8Crossplatform.csproj.GenerateResource.cache
+C:\Users\forev\Desktop\lab8Crossplatform\lab8Crossplatform\obj\Debug\lab8Crossplatform.csproj.CoreCompileInputs.cache
+C:\Users\forev\Desktop\lab8Crossplatform\lab8Crossplatform\obj\Debug\lab8Crossplatform.exe
+C:\Users\forev\Desktop\lab8Crossplatform\lab8Crossplatform\obj\Debug\lab8Crossplatform.pdb
+C:\Users\forev\OneDrive\Рабочий стол\разработка графических интерфейсов с использование кроссплатформенных технологий\lab8Crossplatform\lab8Crossplatform\obj\Debug\lab8Crossplatform.csproj.AssemblyReference.cache
+C:\Users\forev\OneDrive\Рабочий стол\разработка графических интерфейсов с использование кроссплатформенных технологий\lab8Crossplatform\lab8Crossplatform\obj\Debug\lab8Crossplatform.csproj.SuggestedBindingRedirects.cache
+C:\Users\forev\OneDrive\Рабочий стол\разработка графических интерфейсов с использование кроссплатформенных технологий\lab8Crossplatform\lab8Crossplatform\obj\Debug\lab8Crossplatform.Form1.resources
+C:\Users\forev\OneDrive\Рабочий стол\разработка графических интерфейсов с использование кроссплатформенных технологий\lab8Crossplatform\lab8Crossplatform\obj\Debug\lab8Crossplatform.Properties.Resources.resources
+C:\Users\forev\OneDrive\Рабочий стол\разработка графических интерфейсов с использование кроссплатформенных технологий\lab8Crossplatform\lab8Crossplatform\obj\Debug\lab8Crossplatform.csproj.GenerateResource.cache
+C:\Users\forev\OneDrive\Рабочий стол\разработка графических интерфейсов с использование кроссплатформенных технологий\lab8Crossplatform\lab8Crossplatform\obj\Debug\lab8Crossplatform.csproj.CoreCompileInputs.cache
+C:\Users\forev\OneDrive\Рабочий стол\разработка графических интерфейсов с использование кроссплатформенных технологий\lab8Crossplatform\lab8Crossplatform\obj\Debug\lab8Crossplatform.exe
+C:\Users\forev\OneDrive\Рабочий стол\разработка графических интерфейсов с использование кроссплатформенных технологий\lab8Crossplatform\lab8Crossplatform\obj\Debug\lab8Crossplatform.pdb
+C:\Users\forev\OneDrive\Рабочий стол\разработка графических интерфейсов с использование кроссплатформенных технологий\lab8Crossplatform\lab8Crossplatform\bin\Debug\lab8Crossplatform.exe.config
+C:\Users\forev\OneDrive\Рабочий стол\разработка графических интерфейсов с использование кроссплатформенных технологий\lab8Crossplatform\lab8Crossplatform\bin\Debug\lab8Crossplatform.exe
+C:\Users\forev\OneDrive\Рабочий стол\разработка графических интерфейсов с использование кроссплатформенных технологий\lab8Crossplatform\lab8Crossplatform\bin\Debug\lab8Crossplatform.pdb
